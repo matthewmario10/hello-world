@@ -2,4 +2,4 @@
 Just another repository
 
 
-I have add another comment to change this file for the committ
+I have added another comment to change this file for the commit
